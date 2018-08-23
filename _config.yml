@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: ahmed-said-resume.pdf
+resume-url: https://so3da.github.io/ahmed-said-resume.pdf
 
 url: https://so3da.github.io
 # your url: http://USERNAME.github.io
