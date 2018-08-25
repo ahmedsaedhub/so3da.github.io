@@ -2,7 +2,7 @@
 title: Transactions and Failover using Saga Pattern in Microservices Architecture
 layout: post
 date: 2018-08-24 22:48
-image: "/assets/images/markdown.jpg"
+image: "/assets/images/profile.jpg"
 tag:
 - microservices
 - architecture
