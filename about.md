@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/assets/images/me.jpg)
 
 <p>I love to work with Internet based applications using latest technology stack, NodeJS, Typescript PHP and any other fancy technology, I'm interested in software design and building large scale applications with scalable architecture specially microservices architecture and event driven developemnt techniques.</p>
 
